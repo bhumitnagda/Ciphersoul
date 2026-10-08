@@ -251,6 +251,13 @@ npm run build
 - More advanced analytics
 - Improved backup and recovery options
 
+## Contributors
+
+- Bhumit Nagda
+- Taher Saterdawala
+- Eshant Palkar
+- Gautham Seshapalli
+
 ## License
 
 This project is licensed under the MIT License.
